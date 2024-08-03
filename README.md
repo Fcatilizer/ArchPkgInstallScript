@@ -50,3 +50,5 @@ chmod +x install2.sh
 ./install2.sh
 ```
 
+NOTE: There is no Steam, Davinci Resolve option in install2.sh because it will depend on your GPU. So do it manually!! 
+
