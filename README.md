@@ -1,6 +1,6 @@
 #### Post Install Arch Quick Install Script.
 
-### aur.sh
+### For (aur.sh)
 ## A graphical tool for AUR that usage zenity.
 ## How it works
 - It prompts users for yay or paru.
@@ -20,7 +20,7 @@ chmod +x aur.sh
 ./aur.sh
 ```
 
-### install2.sh
+### For (install2.sh)
 ## A graphical tool for managing my personal install script.
 ## How it works
 - Shows my personal packages install list
