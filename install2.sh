@@ -67,7 +67,7 @@ packages=(
     python-pip
     npm
     git
-    tgpt
+    tgpt-bin
     python-seaborn
     python-numpy
     python-matplotlib
