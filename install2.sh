@@ -85,6 +85,7 @@ packages=(
     kdialog
     flatpak
     vlc
+    thunderbird
     packagekit
     packagekit-qt5
     packagekit-qt6
