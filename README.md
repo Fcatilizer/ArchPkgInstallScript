@@ -1,4 +1,5 @@
 #### Post Install Arch Quick Install Script.
+Video Tutorial - [Watch Here](https://youtu.be/E9W45tBPOus)
 
 ### For (aur.sh)
 
