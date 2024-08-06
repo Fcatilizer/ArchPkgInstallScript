@@ -97,7 +97,7 @@ packages=(
     blender
     inkscape
     nvidia-settings
-    onedrive-gui
+    onedrivegui
     tokodon
     timeshift
     android-tools
