@@ -33,8 +33,8 @@ fi
 
 if ! command_exists paru; then
     echo "Installing paru..."
-    git clone https://aur.archlinux.org/paru.git
-    cd paru
+    git clone https://aur.archlinux.org/paru-bin.git
+    cd paru-bin
     makepkg -si --noconfirm
     cd ..
     rm -rf paru
@@ -85,7 +85,7 @@ packages=(
     kdialog
     flatpak
     vlc
-    thunderbird
+    thunderbird-bin
     packagekit
     packagekit-qt5
     packagekit-qt6
@@ -125,6 +125,7 @@ packages=(
     dart
     fwupd
     spectacle
+    rustdesk-bin
 )
 
 # Create a Zenity checklist string
